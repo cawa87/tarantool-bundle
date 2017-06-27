@@ -1,0 +1,17 @@
+{
+    "name": "cawakharkov/tarantool-bundle",
+    "description": "Symfony bundle for tarantool integration",
+    "type": "library",
+    "require": {
+        "tarantool/client": "^0.3.0",
+        "rybakit/msgpack": "^0.2.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandr Zamiatin",
+            "email": "cawa123@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}
