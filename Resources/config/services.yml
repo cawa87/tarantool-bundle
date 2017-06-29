@@ -1,0 +1,4 @@
+services:
+    tarantool.connector:
+        class: CawaKharkov\TarantoolBundle\Connector\StreamConnector
+        arguments: ['%tarantool.dsn%']
